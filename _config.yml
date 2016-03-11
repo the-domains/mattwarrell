@@ -1,0 +1,28 @@
+name: Matt Warrell
+favicon: null
+layout_spectrum: 0.3041667884681374
+typography_spectrum: 0.0224502463825047
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7792671176139265
+  lightness: 0.1786035532131791
+  saturation: 0.1716665152925998
+  rhythmicContrast: 0.10377065697684884
+purpose: []
